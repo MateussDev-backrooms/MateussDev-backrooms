@@ -7,7 +7,6 @@
 
 #### Socials:
 - YouTube: https://www.youtube.com/channel/UCGjhHb_I_rYBbfxjnmInlTA
-- Instagram: https://www.instagram.com/mateuss_okhrimenko/
 - Discord: @mateussdev
 - Support email: mateussdevheretohelp@gmail.com
 
@@ -16,19 +15,16 @@
 - Blender
 - Unreal Engine 4 & 5
 - Unity & Unity C# (though I heavily prefer UE4/5)
-- GIMP, Inkscape & Darktable (GNU image processing setup)
+- Adobe creative cloud & alternatives
 - Pure HTML/CSS/JS for front end
-- Several NodeJS packages such as:
-  - Three.js
-  - Tailwind (my beloved)
-  - RXJS (somewhat)
+- NodeJS stuffs, Vite & Webpack
 - Angular front-end framework
 - Firebase & Pocketbase backends
+- C# and .NET (Especially Unity C#)
 - Audacity (for audio stuff)
 - Fruity Loops Studio (fl studio)
 - Most of the config languages (toml, xml, json, etc.)
 #### Stuff that I have some knowledge but am still mostly learning
-- C# and .NET
 - Python
 - C++
 - Java & Kotlin
