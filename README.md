@@ -2,15 +2,15 @@
 - **All in one** developer & designer
 - Creator of the game **Noclipped**
 - **UE4/UE5** game developer & game designer
-- **Soft Uni** student and completed **Telerik Academy**
+- **Soft Uni** student
+- Completed **Telerik Academy**
 
 
 #### Socials:
 - YouTube: https://www.youtube.com/channel/UCGjhHb_I_rYBbfxjnmInlTA
-- Discord: @mateussdev
 - Support email: mateussdevheretohelp@gmail.com
 
-#### Stuff I know:
+#### Knowledge:
 - JavaScript & TypeScript
 - Blender
 - Unreal Engine 4 & 5
@@ -23,11 +23,3 @@
 - C# and .NET (Especially Unity C#)
 - Audacity (for audio stuff)
 - Fruity Loops Studio (fl studio)
-- Most of the config languages (toml, xml, json, etc.)
-#### Stuff that I have some knowledge but am still mostly learning
-- Python
-- C++
-- Java & Kotlin
-- More advanced Bash
-- Lua
-- Cascadeur (for more advanced animations)
