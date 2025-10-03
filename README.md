@@ -1,7 +1,10 @@
-## Hi! My name's **Matvey, Mateuss & Mateuss Dev**
+<img width="1920" height="166" alt="GlitchArt4Banner" src="https://github.com/user-attachments/assets/3b3bb48f-accb-4359-ac25-5fc9ce789037" />
+
+# Hi! My name's Matvey, Mateuss or MateussDev
 - **All in one** developer & designer
-- Creator of the game **Noclipped** and others
-- Developer of the Minecraft mod Chemosynthesis
+- Creator of the game [**Noclipped**](https://store.steampowered.com/app/2093380/Noclipped/) and [others](https://mateussdev.itch.io)
+- Developer of the Minecraft mod Chemosynthesis (AKA Siliconmod)
+- Web developer, creator of the [Bear Fang Records](https://bear-fang-records.com) website
 - **UE4/UE5** game developer & game designer
 
 #### Socials:
